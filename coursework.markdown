@@ -1,10 +1,14 @@
 ---
 layout: page
-title: University of California, Davis
+title: Coursework
 permalink: /coursework/
 ---
 
 > Notes are only visible to ucdavis.edu accounts (university restriction)
+
+
+
+# University of California, Davis
 
 
 ## Spring 2025
