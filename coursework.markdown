@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Coursework
+title: University of California, Davis
 permalink: /coursework/
 ---
-
-# University of California, Davis
 
 > Notes are only visible to ucdavis.edu accounts (university restriction)
 
