@@ -4,15 +4,54 @@ title: Coursework
 permalink: /coursework/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# University of California, Davis
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+> Notes are only visible to ucdavis.edu accounts (university restriction)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Spring 2025
+
+### ECS 140A – Programming Languages
+
+### STA 131A – Introduction to Probability Theory
+
+### ECS 132 – Probability & Statistical Modeling for Computer Science
+
+### ECS 120 - Theory of Computation
+
+## Winter 2025
+
+### ECS 150 – Operating Systems
+
+#### [Syllabus](https://bob.cs.ucdavis.edu/classes/w25-ecs150/index.html)
+#### [Notes]()
+
+### ECS 154B – (Advanced) Computer Architecture
+
+#### [Syllabus](_site/assets/ecs_154b_syllabus.pdf)
+#### [Notes](https://ucdavis365-my.sharepoint.com/:o:/g/personal/aazat_ucdavis_edu/EvB7z1Ysf0BEgWkwc7_NC08Bz_UhoZzJMGyo_st9yWwY8g?e=Qhag0O)
+
+### ECS 188 – Ethics
+
+#### [Syllabus](_site/assets/ecs_188_syllabus.pdf)
+#### Notes: are they really needed?
 
 
-[jekyll-organization]: https://github.com/jekyll
+## Fall 2024
+
+### ECS 122A – Algorithm Design & Analysis
+
+#### Syllabus: lost :sob:
+#### [Notes](https://ucdavis365-my.sharepoint.com/:o:/g/personal/aazat_ucdavis_edu/EsYSmjZEqTxNvDqVOFr058oBCLgyeQ7Te7g7BSvq3bwUkw?e=0ueDFA) 
+
+### ECS 154A – Computer Architecture
+
+#### Syllabus: lost :sob:
+#### [Notes](https://ucdavis365-my.sharepoint.com/:o:/g/personal/aazat_ucdavis_edu/Eitmea2bO3xFoCSk0Zr2AvEBgrXdmbRPsSmRkaG_7vR5dQ?e=72u2sd)
+
+### EEC 100 – Circuits II
+
+#### Syllabus: lost :sob:
+#### Notes: lost :sob:
+
+#### Personal Note:
+Operational Amplifiers → RLC Filters → Fourier/Laplace Transformations (my favorite) → Two Port Networks
