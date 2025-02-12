@@ -48,18 +48,18 @@ ___
 
 ### ECS 122A – Algorithm Design & Analysis
 
-- #### Syllabus: lost :sob:
+- #### Syllabus: lost  :sob:
 - #### [Notes](https://ucdavis365-my.sharepoint.com/:o:/g/personal/aazat_ucdavis_edu/EsYSmjZEqTxNvDqVOFr058oBCLgyeQ7Te7g7BSvq3bwUkw?e=0ueDFA) 
 
 ### ECS 154A – Computer Architecture
 
-- #### Syllabus: lost :sob:
+- #### Syllabus: lost  :sob:
 - #### [Notes](https://ucdavis365-my.sharepoint.com/:o:/g/personal/aazat_ucdavis_edu/Eitmea2bO3xFoCSk0Zr2AvEBgrXdmbRPsSmRkaG_7vR5dQ?e=72u2sd)
 
 ### EEC 100 – Circuits II
 
-- #### Syllabus: lost :sob:
-- #### Notes: lost :sob:
+- #### Syllabus: lost  :sob:
+- #### Notes: lost  :sob:
 
 #### Personal Note:
 Operational Amplifiers → RLC Filters → Fourier/Laplace Transformations (my favorite) → Two Port Networks
