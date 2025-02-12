@@ -10,6 +10,7 @@ permalink: /coursework/
 
 # University of California, Davis
 
+---
 
 ## Spring 2025
 
