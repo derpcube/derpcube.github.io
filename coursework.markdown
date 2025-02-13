@@ -34,12 +34,12 @@ ___
 
 ### ECS 154B – (Advanced) Computer Architecture
 
-- #### [Syllabus](_site/assets/ecs_154b_syllabus.pdf)
+- #### [Syllabus]({{site.baseurl}}/assets/ecs_154b_syllabus.pdf)
 - #### [Notes](https://ucdavis365-my.sharepoint.com/:o:/g/personal/aazat_ucdavis_edu/EvB7z1Ysf0BEgWkwc7_NC08Bz_UhoZzJMGyo_st9yWwY8g?e=Qhag0O)
 
 ### ECS 188 – Ethics
 
-- #### [Syllabus](_site/assets/ecs_188_syllabus.pdf)
+- #### [Syllabus]({{site.baseurl}}/assets/ecs_188_syllabus.pdf)
 - #### Notes: are they really needed?
 
 ___
